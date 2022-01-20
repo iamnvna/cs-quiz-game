@@ -24,4 +24,4 @@ This project is part of my #100DaysOfCode learning streak. I intend to write a s
 * I have gain better understanding to loops and how they can be applied in projects.
 * I have learnt the application of the .lower() function in development.
 
-For more understanding, watch the full tutorial **[here](https://youtu.be/DLn3jOsNRVE?t=293)** from freeCodeCamp.org
+For more understanding, watch the full tutorial **[here](https://youtu.be/DLn3jOsNRVE?t=293)** from 'Tech With Tim'
