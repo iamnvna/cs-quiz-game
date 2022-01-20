@@ -16,7 +16,8 @@ This project is part of my #100DaysOfCode learning streak. I intend to write a s
 4. Using variables and if functions, collect user input and compare them against the correct answer for each question. 
 5. Increase the score variable by one on each correct answer.
 6. Print the score variable count.
-7. Stop.
+7. Evaluate the while loop against user input to either restart or quit the program.
+8. Stop.
 
 ## What I've learnt
 * I learned to use the while loop to restart a program or run it again from scratch.
